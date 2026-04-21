@@ -7,7 +7,8 @@ Dette er en del av et kurs jeg skal holde for sveltekit
 ```
 npx sv create my-app
 ```
-- [] yo
+- [ ] Ikke gjort
+- [x] Ferdig
 
 kulio
 : en kul person
