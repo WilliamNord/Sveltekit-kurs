@@ -7,7 +7,7 @@ Dette er en del av et kurs jeg skal holde for sveltekit
 ```
 npx sv create my-app
 ```
-[]
+[x]
 
 
 ###for å kjørenettsiden kan du bruke
