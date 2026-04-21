@@ -1,33 +1,42 @@
-# Sveltekit-kurs
-Dette er en del av et kurs jeg skal holde for sveltekit
+# SvelteKit-kurs
+Dette er en del av et kurs jeg skal holde om SvelteKit.
 
+---
 
-## Hvordan laste ned Sveltekit og lage et prosjekt:
-### i mappen du vil bruke
-```
+## Hvordan lage et SvelteKit-prosjekt
+
+### 1. Gå til mappen du vil bruke
+Kjør følgende kommando:
+
+\`\`\`bash
 npx sv create my-app
-```
+\`\`\`
+
 ---
 
-når du lager dette svelteprosjektet vil du få spørsmål om oppsett
+### 2. Velg oppsett
 
-I dette tilfellet skal vi velge sveltekit minimal
-- [x] Sveltekit minimal
-  [] Sveltekit demo
-  [] Svelte library
+Når du oppretter prosjektet, får du flere valg.
+
+#### Prosjekttype:
+\- [x] SvelteKit minimal  
+\- [ ] SvelteKit demo  
+\- [ ] Svelte library  
+
+#### Språk:
+\- [x] Yes, using TypeScript syntax  
+\- [ ] Yes, using JavaScript with JSDoc comments  
+\- [ ] No  
+
+Du kan også velge ekstra verktøy som f.eks. Tailwind CSS.
+
 ---
-- [x] Yes, using TypeScript syntax
-  [] Yes, using JavaScript with JSDoc comments
-  [] NO
 
-her kan du velge etter egen preferanse.
-for eksempel -tailwindcss
+### 3. Start prosjektet
 
-  
-
-###for å kjørenettsiden kan du bruke
-```
+\`\`\`bash
 cd my-app
 npm run dev
-```
+\`\`\`
 
+Dette starter utviklingsserveren slik at du kan se nettsiden i nettleseren.
