@@ -7,11 +7,12 @@ Dette er en del av et kurs jeg skal holde for sveltekit
 ```
 npx sv create my-app
 ```
-- [ ] Ikke gjort
-- [x] Ferdig
+når du lager dette svelteprosjektet vil du få spørsmål om oppsett
 
-kulio
-: en kul person
+I dette tilfellet skal vi velge sveltekit minimal
+- [x]Sveltekit minimal
+- []Sveltekit demo
+- []Svelte library
 
 ###for å kjørenettsiden kan du bruke
 ```
