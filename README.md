@@ -28,15 +28,16 @@ Når du oppretter prosjektet, får du flere valg.
 \- [ ] Yes, using JavaScript with JSDoc comments  
 \- [ ] No  
 
-Du kan også velge ekstra verktøy som f.eks. Tailwind CSS.
+Du kan også velge ekstra verktøy som f.eks. tailwindcss.
 
 ---
 
 ### 3. Start prosjektet
 
-\`\`\`bash
+```bash
 cd my-app
 npm run dev
-\`\`\`
+```
 
-Dette starter utviklingsserveren slik at du kan se nettsiden i nettleseren.
+
+Nå kan du åpne prosjektet i ***din*** tekst editor og starte å utvikle din egen nettside
