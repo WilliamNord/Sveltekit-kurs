@@ -15,7 +15,7 @@ I dette tilfellet skal vi velge sveltekit minimal
 - [x]Sveltekit minimal
 - []Sveltekit demo
 - []Svelte library
-
+---
 - [x]Yes, using TypeScript syntax
 - []Yes, using JavaScript with JSDoc comments
 - []NO
