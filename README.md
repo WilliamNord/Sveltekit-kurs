@@ -7,7 +7,7 @@ Dette er en del av et kurs jeg skal holde for sveltekit
 ```
 npx sv create my-app
 ```
-[x] yo
+- [x] yo
 
 kulio
 : en kul person
