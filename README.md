@@ -16,6 +16,15 @@ I dette tilfellet skal vi velge sveltekit minimal
 - []Sveltekit demo
 - []Svelte library
 
+- [x]Yes, using TypeScript syntax
+- []Yes, using JavaScript with JSDoc comments
+- []NO
+
+her kan du velge etter egen preferanse.
+for eksempel -tailwindcss
+
+  
+
 ###for å kjørenettsiden kan du bruke
 ```
 cd my-app
