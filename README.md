@@ -12,13 +12,13 @@ npx sv create my-app
 når du lager dette svelteprosjektet vil du få spørsmål om oppsett
 
 I dette tilfellet skal vi velge sveltekit minimal
-- [x]Sveltekit minimal
-- []Sveltekit demo
-- []Svelte library
+- [x] Sveltekit minimal
+- [] Sveltekit demo
+- [] Svelte library
 ---
-- [x]Yes, using TypeScript syntax
-- []Yes, using JavaScript with JSDoc comments
-- []NO
+- [x] Yes, using TypeScript syntax
+- [] Yes, using JavaScript with JSDoc comments
+- [] NO
 
 her kan du velge etter egen preferanse.
 for eksempel -tailwindcss
