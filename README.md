@@ -9,6 +9,8 @@ npx sv create my-app
 ```
 [x]
 
+kulio
+: en kul person
 
 ###for å kjørenettsiden kan du bruke
 ```
