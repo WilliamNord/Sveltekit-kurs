@@ -7,7 +7,7 @@ Dette er en del av et kurs jeg skal holde for sveltekit
 ```
 npx sv create my-app
 ```
-
+---
 
 når du lager dette svelteprosjektet vil du få spørsmål om oppsett
 
