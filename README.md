@@ -6,6 +6,13 @@ Dette er en del av et kurs jeg skal holde for sveltekit
 ### i mappen du vil bruke
 ```
 npx sv create my-app
+```
+[]
+
+
+###for å kjørenettsiden kan du bruke
+```
 cd my-app
 npm run dev
 ```
+
