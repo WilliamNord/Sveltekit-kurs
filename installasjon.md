@@ -26,9 +26,9 @@ Når du oppretter prosjektet, får du flere valg.
 - [ ] Svelte library  
 
 #### Språk:
-\- [x] Yes, using TypeScript syntax  
-\- [ ] Yes, using JavaScript with JSDoc comments  
-\- [ ] No  
+- [x] Yes, using TypeScript syntax  
+- [ ] Yes, using JavaScript with JSDoc comments  
+- [ ] No  
 
 Du kan også velge ekstra verktøy som f.eks. tailwindcss.
 trykk enter for å bekrefte
