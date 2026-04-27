@@ -15,7 +15,7 @@
 
 ## Krav – Node.js
 
-Før du begynner må du ha **Node.js** installert. Sjekk om du allerede har det ved å kjøre:
+Før du begynner må du ha **Node.js** installert. Sjekk om du allerede har node.js ved å kjøre:
 
 ```bash
 node -v
@@ -25,16 +25,11 @@ Får du noe som `v22.18.0` kan du gå videre. Hvis ikke, last ned Node.js her:
 
 [Last ned Node.js](https://nodejs.org/en/download)
 
-<details>
-<summary>Slik burde installasjonsvalget ut</summary>
-
-<br>
+Slik burde installasjonsvalget se ut:
 
 ![Node.js installasjonsvalg](https://github.com/user-attachments/assets/0cb26c13-40de-4c19-8617-1356a3dca4ce)
 
 Kopier kommandoene fra nettsiden og lim dem rett inn i terminalen.
-
-</details>
 
 ---
 
@@ -54,44 +49,28 @@ npx sv create my-app
 
 Du vil bli spurt om flere valg under opprettelsen. Her er det vi anbefaler:
 
-<details>
-<summary>Prosjekttype</summary>
-
-<br>
+**Prosjekttype:**
 
 | Valg | Anbefalt |
 |------|:--------:|
-| SvelteKit minimal | ✅ |
+| SvelteKit minimal | Ja |
 | SvelteKit demo | |
 | Svelte library | |
 
-</details>
-
-<details>
-<summary>Språk</summary>
-
-<br>
+**Språk:**
 
 | Valg | Anbefalt |
 |------|:--------:|
-| Yes, using TypeScript syntax | ✅ |
+| Yes, using TypeScript syntax | Ja |
 | Yes, using JavaScript with JSDoc comments | |
 | No | |
 
-</details>
-
-<details>
-<summary>Ekstra verktøy (valgfritt)</summary>
-
-<br>
+**Ekstra verktøy (valgfritt):**
 
 Du kan også velge tilleggsverktøy som for eksempel:
 
 - **Tailwind CSS** – stilrammeverk
-- **ESLint** – kodekvalitet
 - **Prettier** – kodeformatering
-
-</details>
 
 Trykk **Enter** for å bekrefte hvert valg.
 
@@ -104,4 +83,4 @@ cd my-app
 npm run dev
 ```
 
-Åpne prosjektet i din foretrukne editor og begynn å utvikle.
+Åpne prosjektet i din editor og du har laget ditt eget svelteprosjekt.
