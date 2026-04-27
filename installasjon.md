@@ -1,59 +1,107 @@
 # SvelteKit-kurs
-Dette er en del av et kurs jeg skal holde om SvelteKit.
 
-må laste ned node ----- NOTAT
+> Dette er en del av et kurs jeg skal holde om SvelteKit.
 
-## Hvordan lage et SvelteKit-prosjekt
+---
 
-### først må vi sjekke om vi har node.js innstallert
-kjør kommandoen i terminalen for å sjekke om du har node.
+## Innhold
+
+- [Krav – Node.js](#krav--nodejs)
+- [Steg 1 – Opprett prosjektet](#steg-1--opprett-prosjektet)
+- [Steg 2 – Velg oppsett](#steg-2--velg-oppsett)
+- [Steg 3 – Start prosjektet](#steg-3--start-prosjektet)
+
+---
+
+## Krav – Node.js
+
+Før du begynner må du ha **Node.js** installert. Sjekk om du allerede har det ved å kjøre:
+
 ```bash
 node -v
 ```
-hvis du får et resultat som `v.22.18.0` har du noe, hvis ikke kan du laste det ned her [node.js download](https://nodejs.org/en/download)
-du vil få noen valg for installasjon, da burde det se slik ut:
-<img width="1133" height="544" alt="Screenshot 2026-04-27 at 10 34 36" src="https://github.com/user-attachments/assets/0cb26c13-40de-4c19-8617-1356a3dca4ce" />
 
+Får du noe som `v22.18.0` er du klar. Hvis ikke, last ned Node.js her:
 
-### 1. i terminalen, gå til mappen du vil ha prosjektet i
-Deretter kjører du denne kommandoen.
+[Last ned Node.js](https://nodejs.org/en/download)
+
+<details>
+<summary>Slik ser installasjonsvalget ut</summary>
+
 <br>
-du kan endre "mye-app" til navnet du vil ha
+
+![Node.js installasjonsvalg](https://github.com/user-attachments/assets/0cb26c13-40de-4c19-8617-1356a3dca4ce)
+
+Kopier kommandoene fra nettsiden og lim dem rett inn i terminalen.
+
+</details>
+
+---
+
+## Steg 1 – Opprett prosjektet
+
+Naviger i terminalen til mappen der du vil ha prosjektet, og kjør:
 
 ```bash
 npx sv create my-app
 ```
 
----
-
-### 2. Velg oppsett
-
-Når du oppretter prosjektet, får du flere valg.
-
-#### Prosjekttype:
-- [x] SvelteKit minimal  
-- [ ] SvelteKit demo  
-- [ ] Svelte library  
-
-#### Språk:
-- [x] Yes, using TypeScript syntax  
-- [ ] Yes, using JavaScript with JSDoc comments  
-- [ ] No  
-
-Du kan også velge ekstra verktøy som f.eks. tailwindcss.
-trykk enter for å bekrefte
+> **Tips:** Bytt ut `my-app` med det navnet du vil gi prosjektet ditt.
 
 ---
 
-### 3. Start prosjektet
+## Steg 2 – Velg oppsett
 
-#### åpne i terminalen:
+Du vil bli spurt om flere valg under opprettelsen. Her er det vi anbefaler:
+
+<details>
+<summary>Prosjekttype</summary>
+
+<br>
+
+| Valg | Anbefalt |
+|------|:--------:|
+| SvelteKit minimal | ✅ |
+| SvelteKit demo | |
+| Svelte library | |
+
+</details>
+
+<details>
+<summary>Språk</summary>
+
+<br>
+
+| Valg | Anbefalt |
+|------|:--------:|
+| Yes, using TypeScript syntax | ✅ |
+| Yes, using JavaScript with JSDoc comments | |
+| No | |
+
+</details>
+
+<details>
+<summary>Ekstra verktøy (valgfritt)</summary>
+
+<br>
+
+Du kan også velge tilleggsverktøy som for eksempel:
+
+- **Tailwind CSS** – stilrammeverk
+- **ESLint** – kodekvalitet
+- **Prettier** – kodeformatering
+
+</details>
+
+Trykk **Enter** for å bekrefte hvert valg.
+
+---
+
+## Steg 3 – Start prosjektet
+
 ```bash
 cd my-app
 npm run dev
 ```
 
-#### åpne i 
-
-
-Nå kan du åpne prosjektet i ***din*** tekst editor og starte å utvikle din egen nettside
+Åpne prosjektet i din foretrukne editor og begynn å utvikle.
