@@ -6,7 +6,8 @@ Dette er en del av et kurs jeg skal holde om SvelteKit.
 ## Hvordan lage et SvelteKit-prosjekt
 
 ### 1. i terminalen, gå til mappen du vil bruke
-Deretter kjører du denne kommandoen. 
+Deretter kjører du denne kommandoen.
+du kan endre "mye-app til navnet du vil ha
 
 ```bash
 npx sv create my-app
