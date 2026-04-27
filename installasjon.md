@@ -1,6 +1,6 @@
 # SvelteKit-kurs
 
-> Dette er en del av et kurs jeg skal holde om SvelteKit.
+> Dette er en guide til hvordan du kan lage ditt eget svelte prosjekt
 
 ---
 
@@ -21,12 +21,12 @@ Før du begynner må du ha **Node.js** installert. Sjekk om du allerede har det 
 node -v
 ```
 
-Får du noe som `v22.18.0` er du klar. Hvis ikke, last ned Node.js her:
+Får du noe som `v22.18.0` kan du gå videre. Hvis ikke, last ned Node.js her:
 
 [Last ned Node.js](https://nodejs.org/en/download)
 
 <details>
-<summary>Slik ser installasjonsvalget ut</summary>
+<summary>Slik burde installasjonsvalget ut</summary>
 
 <br>
 
