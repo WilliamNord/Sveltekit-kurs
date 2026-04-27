@@ -46,7 +46,7 @@ Naviger i terminalen til mappen der du vil ha prosjektet, og kjør:
 npx sv create my-app
 ```
 
-> **Tips:** Bytt ut `my-app` med det navnet du vil gi prosjektet ditt.
+> Bytt ut `my-app` med det navnet du vil gi prosjektet ditt.
 
 ---
 
