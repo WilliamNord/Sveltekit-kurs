@@ -21,9 +21,9 @@ npx sv create my-app
 Når du oppretter prosjektet, får du flere valg.
 
 #### Prosjekttype:
-\- [x] SvelteKit minimal  
-\- [ ] SvelteKit demo  
-\- [ ] Svelte library  
+- [x] SvelteKit minimal  
+- [ ] SvelteKit demo  
+- [ ] Svelte library  
 
 #### Språk:
 \- [x] Yes, using TypeScript syntax  
