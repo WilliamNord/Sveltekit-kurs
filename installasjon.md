@@ -5,7 +5,14 @@ må laste ned node ----- NOTAT
 
 ## Hvordan lage et SvelteKit-prosjekt
 
-### 1. i terminalen, gå til mappen du vil bruke
+### først må vi sjekke om vi har node.js innstallert
+kjør kommandoen i terminalen for å sjekke om du har node.
+```bash
+node -v
+```
+hvis du får et resultat som `v.22.18.0` har du noe, hvis ikke kan du laste det ned [her](https://nodejs.org/en/download)
+
+### 1. i terminalen, gå til mappen du vil ha prosjektet i
 Deretter kjører du denne kommandoen.
 <br>
 du kan endre "mye-app" til navnet du vil ha
