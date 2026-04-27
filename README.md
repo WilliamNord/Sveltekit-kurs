@@ -29,15 +29,19 @@ Når du oppretter prosjektet, får du flere valg.
 \- [ ] No  
 
 Du kan også velge ekstra verktøy som f.eks. tailwindcss.
+trykk enter for å bekrefte
 
 ---
 
 ### 3. Start prosjektet
 
+#### åpne i terminalen:
 ```bash
 cd my-app
 npm run dev
 ```
+
+#### åpne i 
 
 
 Nå kan du åpne prosjektet i ***din*** tekst editor og starte å utvikle din egen nettside
