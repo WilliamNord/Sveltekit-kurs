@@ -1,7 +1,7 @@
 # SvelteKit-kurs
 Dette er en del av et kurs jeg skal holde om SvelteKit.
 
----
+må laste ned node ----- NOTAT
 
 ## Hvordan lage et SvelteKit-prosjekt
 
