@@ -8,9 +8,9 @@ Dette er en del av et kurs jeg skal holde om SvelteKit.
 ### 1. i terminalen, gå til mappen du vil bruke
 Deretter kjører du denne kommandoen. 
 
-\`\`\`bash
+```bash
 npx sv create my-app
-\`\`\`
+```
 
 ---
 
