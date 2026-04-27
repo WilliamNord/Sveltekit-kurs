@@ -12,7 +12,8 @@ node -v
 ```
 hvis du får et resultat som `v.22.18.0` har du noe, hvis ikke kan du laste det ned her [node.js download](https://nodejs.org/en/download)
 du vil få noen valg for installasjon, da burde det se slik ut:
-![img](node.js image.png)
+<img width="1133" height="544" alt="Screenshot 2026-04-27 at 10 34 36" src="https://github.com/user-attachments/assets/0cb26c13-40de-4c19-8617-1356a3dca4ce" />
+
 
 ### 1. i terminalen, gå til mappen du vil ha prosjektet i
 Deretter kjører du denne kommandoen.
