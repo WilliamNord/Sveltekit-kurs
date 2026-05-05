@@ -13,7 +13,7 @@
 
 ---
 
-## Krav – Node.js
+## Krav –> Node.js
 
 Før du begynner må du ha **Node.js** installert. Sjekk om du allerede har node.js ved å kjøre:
 
@@ -33,7 +33,7 @@ Kopier kommandoene fra nettsiden og lim dem rett inn i terminalen.
 
 ---
 
-## Steg 1 – Opprett prosjektet
+## Steg 1 - Opprett prosjektet
 
 Naviger i terminalen til mappen der du vil ha prosjektet, og kjør:
 
